@@ -1,0 +1,12 @@
+Problem - Sort an array of 0 1 2 with sort() function
+
+Approach -
+
+1. Using sort -   TC- O(nlogn) SC-O(1)
+
+2 . Counting sort - Linearly traverse the array and Count the no of 0 1 2s and print 0s first then 1s the 2s
+   TC-  O(N)       +        O(N) 
+          |                   |
+         First loop to      Loop to print them  
+         traverse           
+3.  Dutch National Flag Algorithhm 
